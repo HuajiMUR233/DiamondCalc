@@ -1,0 +1,12 @@
+{
+    "id": "diamond_calc",
+    "version": "1.0.0",
+    "name": "Diamond Calculator",
+    "author": "Huaji_MUR233",
+    "link": "https://github.com/HuajiMUR233/DiamondCalc",
+
+    "resources": [
+        "README.md",
+        "LICENSE"
+    ]
+}
