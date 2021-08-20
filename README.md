@@ -1,3 +1,4 @@
 # Diamond Calculator
 
-Use: !!diamond <seed> <x> <z>
+Use: !!diamond \<seed\> \<x\> \<z\>
+
